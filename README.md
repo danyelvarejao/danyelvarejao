@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Danyel Varejão 😀
-![](https://visitor-badge.laobi.icu/badge?page_id=danyelvarejao1.danyelvarejao1) [![Github](https://img.shields.io/github/followers/danyelvarejao1?label=Followers&logo=Github)](https://github.com/danyelvarejao1)
+![](https://visitor-badge.laobi.icu/badge?page_id=danyelvarejao.danyelvarejao) [![Github](https://img.shields.io/github/followers/danyelvarejao?label=Followers&logo=Github)](https://github.com/danyelvarejao)
 
 
 ## About me
@@ -41,6 +41,6 @@
 ## :trophy: My Github Stats:
 
 
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=danyelvarejao1&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=danyelvarejao1&hide=php&theme=radical)
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=danyelvarejao&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=danyelvarejao&hide=php&theme=radical)
 
