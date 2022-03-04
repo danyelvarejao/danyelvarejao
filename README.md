@@ -1,11 +1,8 @@
 ## Hi there 👋 I'm Danyel Varejão 😀
 ![](https://visitor-badge.laobi.icu/badge?page_id=danyelvarejao.danyelvarejao) [![Github](https://img.shields.io/github/followers/danyelvarejao?label=Followers&logo=Github)](https://github.com/danyelvarejao)
 
-
 ## About me
 
-- 🔭 I'm currently developing a website for my business, it will be called Baiak.
-- 🌱 I’m currently learning Vue.js and Laravel.
 - ⚡ Fun fact: I love playing Tibia, it was the game that made me become a developer.
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything.
@@ -32,15 +29,8 @@
 - HTML5
 - CSS3
 - Javascript
+- Typescript
 - PHP
-- Laravel
-- VueJS
-- MySQL
+- MySQL/MariaDB
 - Git
-
-## :trophy: My Github Stats:
-
-
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=danyelvarejao&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=danyelvarejao&hide=php&theme=radical)
 
