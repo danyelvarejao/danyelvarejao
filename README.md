@@ -11,8 +11,8 @@ I love using <b>VIM</b> as my text editor.
 <b>Learning at the moment:</b>
 - ReactJS and NextJS
 - Styled Components
-- tailwindCSS
-- Prism
+- TailwindCSS
+- Prisma
 - tRPC
 
 ![Danyel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danyelvarejao&layout=compact&theme=radical)
