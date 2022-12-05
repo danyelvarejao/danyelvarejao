@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm <b>Danyel</b> - A Full Stack Web Develoer from Brazil that loves technology in general.
+I'm <b>Danyel</b> - A Full Stack Web Developer from Brazil that loves technology in general.
 
 
 <b>More about me:</b>
