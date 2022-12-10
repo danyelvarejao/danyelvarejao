@@ -4,7 +4,7 @@ I'm <b>Danyel</b> - A Full Stack Web Developer from Brazil that loves technology
 
 
 <b>More about me:</b>
-Curious about how everything works and how it's made, I went to find out how the game called <b>"Tibia"</b> was made. Around 2010 I had my first contact with programming, in which I started building systems/mods for the game <b>"Tibia"</b> using <b>C++</b> and <b>LUA</b>, and I continue to do so until today.
+Curious about how stuff works "under the hood" in a game I used to play called <b>"Tibia"</b> I discovered a passion for technology and software development, my first contact was building mods for the game using <b>C++</b> and <b>LUA</b>, a hobby I still enjoy nowadays.
 
 I love using <b>VIM</b> as my text editor.
 
