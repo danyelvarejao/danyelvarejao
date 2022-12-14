@@ -15,4 +15,3 @@ I love using <b>VIM</b> as my text editor.
 - Prisma
 - tRPC
 
-![Danyel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danyelvarejao&layout=compact&theme=radical)
