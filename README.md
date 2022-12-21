@@ -11,7 +11,6 @@ I love using <b>VIM</b> as my text editor.
 <b>Learning at the moment:</b>
 - ReactJS and NextJS
 - Styled Components
-- TailwindCSS
 - Prisma
 - tRPC
 
