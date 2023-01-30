@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm <b>Danyel</b> - A Full Stack Web Developer from Brazil that loves technology in general.
+I'm <b>Danyel</b> - A Full Stack Developer from Brazil that loves technology in general.
 
 
 <b>More about me:</b>
@@ -9,8 +9,4 @@ Curious about how stuff works "under the hood" in a game I used to play called <
 I love using <b>VIM</b> as my text editor.
 
 <b>Learning at the moment:</b>
-- ReactJS and NextJS
-- Styled Components
-- Prisma
-- tRPC
-
+- Rust Language
